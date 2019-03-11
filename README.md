@@ -1,2 +1,2 @@
 # xView Development Rule for Team
-xView Develop Rule
+xView Develop Rule.
