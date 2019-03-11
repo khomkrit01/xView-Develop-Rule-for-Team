@@ -1,2 +1,2 @@
-# xView-Develop-Rule-team-
+# xView Development Rule for Team
 xView Develop Rule
